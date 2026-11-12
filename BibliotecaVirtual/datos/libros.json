@@ -1,0 +1,107 @@
+[ 
+
+{ 
+    "titulo": "Álgebra básica", 
+    "autor": "Autor de ejemplo", 
+    "categoria": "Matemáticas", 
+    "descripcion": "Material introductorio para comprender las operaciones algebraicas, expresiones y ecuaciones básicas.", 
+    "portada": "recursos/algebra.jpg", 
+    "archivos": [ 
+
+        { 
+            "tipo": "PDF", 
+            "ruta": "recursos\\libros\\algebra-basica.pdf"
+        }, 
+
+        { 
+            "tipo": "DOCX", 
+            "ruta": "recursos\\libros\\algebra-basica.docx" 
+        }, 
+
+        { 
+            "tipo": "PPTX", 
+            "ruta": "recursos\\libros\\algebra-basica.pptx" 
+        } 
+
+    ] 
+
+} ,
+
+    { 
+        "titulo": "Introducción a la informática", 
+        "autor": "Autor de ejemplo", 
+        "categoria": "Informática", 
+        "portada": "recursos\\informatica.jpg",
+        "archivos": [ 
+
+        { 
+            "tipo": "PDF", 
+            "ruta": ""
+        }, 
+
+        { 
+            "tipo": "DOCX", 
+            "ruta": "" 
+        }, 
+
+        { 
+            "tipo": "PPTX", 
+            "ruta": "" 
+        } 
+
+    ] 
+    }, 
+
+    { 
+        "titulo": "El mundo de la lectura", 
+        "autor": "Autor de ejemplo", 
+        "categoria": "Literatura", 
+        "portada": "recursos\\literatura.jpg",
+        "archivos": [ 
+
+        { 
+            "tipo": "PDF", 
+            "ruta": ""
+        }, 
+
+        { 
+            "tipo": "DOCX", 
+            "ruta": "" 
+        }, 
+
+        { 
+            "tipo": "PPTX", 
+            "ruta": "" 
+        } 
+
+    ] 
+    }, 
+
+    { 
+        "titulo": "Ciencia para todos", 
+        "autor": "Autor de ejemplo", 
+        "categoria": "Ciencias", 
+        "portada": "recursos\\literatura.jpg",
+        "archivos": [ 
+
+        { 
+            "tipo": "PDF", 
+            "ruta": ""
+        }, 
+
+        { 
+            "tipo": "DOCX", 
+            "ruta": "" 
+        }, 
+
+        { 
+            "tipo": "PPTX", 
+            "ruta": "" 
+        } 
+
+    ] 
+    } 
+
+] 
+
+ 
